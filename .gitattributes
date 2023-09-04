@@ -1,0 +1,1 @@
+pi4-eeprom-screenshot.png filter=lfs diff=lfs merge=lfs -text
